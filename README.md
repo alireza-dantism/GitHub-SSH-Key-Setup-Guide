@@ -75,3 +75,9 @@ Hi <your-username>! You've successfully authenticated, but GitHub does not provi
 ```
 
 ✅ Your SSH key setup is complete!
+
+
+
+git remote add origin git@github.com:x/x.git
+git branch -M main
+git push -u origin main
