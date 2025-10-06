@@ -1,4 +1,4 @@
-# GitHub SSH Key Setup Guide
+# GitHub SSH Key Setup Guide for MacOS
 
 This repository contains a step-by-step tutorial on how to **reset old SSH keys and create a new SSH key** for GitHub on macOS. This can be used as documentation for GitHub repositories to ensure secure SSH access.
 
